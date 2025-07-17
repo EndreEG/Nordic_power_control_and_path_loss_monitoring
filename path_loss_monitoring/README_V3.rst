@@ -71,6 +71,7 @@ To test the sample:
 4. The Central will start scanning and connect automatically to the Peripheral.
 5. Once connected, observe the LEDs on the Central to evaluate signal strength:
    - Bring the devices closer or move them farther apart to change the signal quality.
+   - Optionally place an obstruction between the devices to see how this affects signal quality.
 6. Monitor the RTT console for logs showing connection status and real-time path loss.
 
 Sample output
