@@ -29,9 +29,9 @@ This sample illustrates Bluetooth® LE Path Loss Monitoring by calculating the s
 
 The application defines three signal quality zones based on the path loss value:
 
-- **Low path loss (strong signal):** LED 1 is turned on.
-- **Medium path loss:** LED 2 is turned on.
-- **High path loss (weak signal):** LED 3 is turned on.
+- **Low path loss (strong signal):** LED0 is turned on.
+- **Medium path loss:** LED1 is turned on.
+- **High path loss (weak signal):** LED2 is turned on.
 
 The Peripheral simply advertises its presence and accepts connections.
 
@@ -40,9 +40,9 @@ User interface
 
 Central:
 
-- **LED 1:** Indicates **Low** path loss (good signal).
-- **LED 2:** Indicates **Medium** path loss.
-- **LED 3:** Indicates **High** path loss (weak signal).
+- **LED0:** Indicates **Low** path loss (good signal).
+- **LED1:** Indicates **Medium** path loss.
+- **LED2:** Indicates **High** path loss (weak signal).
 
 No buttons are used.
 
