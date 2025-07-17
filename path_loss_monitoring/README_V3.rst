@@ -132,4 +132,3 @@ This sample uses the following |NCS| libraries:
 It uses the following Zephyr libraries:
 
 * :ref:`zephyr:bluetooth_api`
-  * :file:`in*
